@@ -1,7 +1,7 @@
 # GameClientStudy_Fallowing_game-developer-roadmap
 game-developer-roadmap 을 따라 학습하는 GameClient
 - [Game_Mathematics](#Game_Mathematics)
-  * [vector](##vector)
+  * [vector](#vector)
 - [Game_Pysics_#1](#Game_Pysics_#1)
 - [Game_Engine](#Game_Engine)
 - [Game_Physics_#2](#Game_Pysics_#2)
