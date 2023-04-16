@@ -1,6 +1,6 @@
 # GameClientStudy_Fallowing_game-developer-roadmap
 game-developer-roadmap 을 따라 학습하는 GameClient
-- [Prerequisite](#prerequisite)
+- [Game_Mathematics](#Game_Mathematics)
 - [Computer Language](#computer-language)
   * [Python](#python)
   * [C](#c)
