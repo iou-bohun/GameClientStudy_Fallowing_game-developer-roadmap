@@ -13,7 +13,7 @@ game-developer-roadmap 을 따라 학습하는 GameClient
 - [Advanced_Randering_#1](#Advanced_Randering_#1)
 - [Advanced_Randering_#2](#Advanced_Randering_#2)
 # Game_Mathematics 
-## vector
+### vector
 # Game_Pysics_#1
 # Game_Engine
 # Game_Physics_#2
