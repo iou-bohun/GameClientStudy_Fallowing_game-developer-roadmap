@@ -1,5 +1,5 @@
 # GameClientStudy_Fallowing_game-developer-roadmap
-game-developer-roadmap 을 따라 학습하는 GameClient
+game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을 따라 학습하는 GameClient
 - [Game_Mathematics](#Game_Mathematics)
   * [vector](#vector)
 - [Game_Pysics_#1](#Game_Pysics_#1)
