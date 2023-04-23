@@ -16,9 +16,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 ### vector  
 - 백터의 내적 **(Vector3.Dot(Vertor a, Vector b))**
 
-내적을 이용해 두 백터간의 방향관계를 알 수 있다
+내적을 이용해 두 백터간의 방향관계를 알 수 있다.
 
-ex)플레이어의 방향백터와 적으로의 방향백터가 음일 경우 적은 플레이어의 뒤에 있다 는 의미이다 
+ex)플레이어의 방향백터와 적으로의 방향백터가 음일 경우 적은 플레이어의 뒤에 있다 는 의미이다.
 
 내적을 이용해 어떤 백터를 중심으로 정해진 각범위 내에 물체가 존재하는지 판별하는데 유용하다.
 
