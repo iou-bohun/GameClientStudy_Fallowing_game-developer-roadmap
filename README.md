@@ -14,7 +14,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 - [Advanced_Randering_#2](#Advanced_Randering_#2)
 # Game_Mathematics 
 ### vector  
--백터의 내적 **(Vector3.Dot(Vertor a, Vector b))**
+- 백터의 내적 **(Vector3.Dot(Vertor a, Vector b))**
 
 내적을 이용해 두 백터간의 방향관계를 알 수 있다
 
