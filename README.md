@@ -28,7 +28,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/56661597/233840669-0f283dd4-db3c-47d1-8fe9-19fe7e9378ba.png">
 
-  Cos(b)>Cos(a/2)인 경우
+   Cos(b)>Cos(a/2)인 경우
 
  #### 백터의 외적 **(Vector3.Cross(VectorA, VectorB))**
 
