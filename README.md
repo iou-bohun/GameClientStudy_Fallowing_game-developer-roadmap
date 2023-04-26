@@ -5,9 +5,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
   * [Matrix](#Matrix)
   * [LinearAlgebra](#LinearAlgebra)
   * [Geometry](#Geometry)
-  * [Affine Space](#Affine Space)
-  * [Eular Angle](#Eular Angle)
-  * [Eular Quaternion](#Quaternion)
+  * [Affine_Space](#Affine_Space)
+  * [Eular_Angle](#Eular_Angle)
+  * [Quaternion](#Quaternion)
 - [Game_Pysics_#1](#Game_Pysics_#1)
 - [Game_Engine](#Game_Engine)
 - [Game_Physics_#2](#Game_Pysics_#2)
@@ -72,14 +72,14 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
  
    collision의 충돌 감지에 사용되었다. 
    
- ### Affine Space
+ ### Affine_Space
  
  - 벡터는 크기와 방향만 가지므로 정적인 위치를 표현하기에는 무리가 있다. 
    이를 해결하기 위해 point 를 사용한다. 이러한 점을 찍을수 있는 공간을 아핀 공간이라고 한다. 
     
    polygon과 관련이 있다.
 
- ### Eular Angle
+ ### Eular_Angle
  
  - x,y,z, 3개 축을 기준으로 회전시키는 우리가 흔히 알고있는 각도계 
 
