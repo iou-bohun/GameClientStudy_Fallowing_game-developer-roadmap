@@ -3,6 +3,11 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 - [Game_Mathematics](#Game_Mathematics)
   * [vector](#vector)
   * [Matrix](#Matrix)
+  * [LinearAlgebra](#LinearAlgebra)
+  * [Geometry](#Geometry)
+  * [ffine Space](#ffine Space)
+  * [Eular Angle](#Eular Angle)
+  * [Eular Quaternion](#Quaternion)
 - [Game_Pysics_#1](#Game_Pysics_#1)
 - [Game_Engine](#Game_Engine)
 - [Game_Physics_#2](#Game_Pysics_#2)
@@ -84,7 +89,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    
    https://www.youtube.com/watch?v=zc8b2Jo7mno&feature=youtu.be&t=2m9s
 
- ### Quaternion **Quaternion.Eular**
+ ### Quaternion 
+ 
+ **Quaternion.Eular**
  
  - 각 축을 한번에 계산/ 4개의 성분 x,y,z,w 로 이루어져 있다. w는 스칼라 
  
