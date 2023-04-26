@@ -14,9 +14,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 - [Advanced_Randering_#2](#Advanced_Randering_#2)
 # Game_Mathematics 
 ### vector  
-- 백터의 내적 **(Vector3.Dot(Vertor a, Vector b))**
+#### 백터의 내적 **(Vector3.Dot(Vertor a, Vector b))**
 
-  내적을 이용해 두 백터간의 방향관계를 알 수 있다.
+- 내적을 이용해 두 백터간의 방향관계를 알 수 있다.
 
   ex)플레이어의 방향백터와 적으로의 방향백터가 음일 경우 적은 플레이어의 뒤에 있다 는 의미이다.
 
@@ -30,6 +30,19 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 
   Cos(b)>Cos(a/2)인 경우
 
+#### 백터의 외적 **(Vector3.Cross(VectorA, VectorB))**
+
+- 두 벡터의 평행 여부를 판단할 때 사용한다. 
+  
+  외적을 했을 때 0이라면 평행이다.
+  
+- 적이 플레이어의 오른쪽에 있는지, 왼쪽에 있는지 알 수 있다. 
+
+  게임 속의 상향 벡터를 up, 플레이어의 전방 벡터를 v, 플레이어에서 적을 향하는 벡터를 w 라 할때
+  
+  up⋅(VxW)>0이면 적은 주인공의 오른쪽에 있는것이다. 
+  
+  
 
 
 # Game_Pysics_#1
