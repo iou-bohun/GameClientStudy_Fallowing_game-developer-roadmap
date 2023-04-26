@@ -43,7 +43,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
   
    up⋅(VxW)>0이면 적은 주인공의 오른쪽에 있는것이다. 
   
-### Matrix(행렬)
+### Matrix
 
 ![image](https://user-images.githubusercontent.com/56661597/234601321-2a54baef-b1fc-4d5c-9d13-cfa959df3766.png)
 
@@ -55,13 +55,13 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    
    행렬을 통해 하나의 조합을 만들고 reusable하게 만들어 연산량을 줄이는게 목적이다. 
 
-### LinearAlgebra(선형대수)
+### LinearAlgebra
 
  - 벡터공간, 벡터, 선형변환, 행렬, 연립 선형 방정식 등을 연구하는 대수학의 한 분야. 
 
    벡터 공간이란 = 선형결합 연산이 같은 공간산에 존재하는 벡터들이 모인 공간. 
    
-### Geometry(기하학)
+### Geometry
  
  - 도형을 연구하는 수학. ex) 피타고라스 정리 
  
