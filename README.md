@@ -5,7 +5,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
   * [Matrix](#Matrix)
   * [LinearAlgebra](#LinearAlgebra)
   * [Geometry](#Geometry)
-  * [ffine Space](#ffine Space)
+  * [Affine Space](#Affine Space)
   * [Eular Angle](#Eular Angle)
   * [Eular Quaternion](#Quaternion)
 - [Game_Pysics_#1](#Game_Pysics_#1)
