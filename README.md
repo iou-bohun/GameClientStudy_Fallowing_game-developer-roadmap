@@ -91,7 +91,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 
  ### Quaternion 
  
- **Quaternion.Eular**
+-  **Quaternion.Eular**
  
  - 각 축을 한번에 계산/ 4개의 성분 x,y,z,w 로 이루어져 있다. w는 스칼라 
  
