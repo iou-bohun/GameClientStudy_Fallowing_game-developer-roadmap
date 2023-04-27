@@ -97,6 +97,14 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
  
    물체의 회전에 사용된다. transform.rotation = Quarternion.Eular(new Vector3(x,y,z))
    
+ ### Projection
+ - Parallel Projection / Orthographic projection
+   
+   원근감이 없는 투영. 물체들의 절대적인 크기를 봐야 할 때 사용된다.
+   
+ - Perspective Projection
+
+   원근감이 있는 투영.\ㅑㅕ숔로ㅛㅑㅐㅔ 
    
 # Game_Pysics_#1
 # Game_Engine
