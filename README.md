@@ -111,7 +111,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    
  - Perspective Projection
 
-   원근감이 있는 투영.
+   원근감이 있는 투영. = 원근법
+   
+   
    
 # Game_Pysics_#1
 # Game_Engine
