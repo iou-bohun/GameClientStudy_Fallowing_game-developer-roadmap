@@ -93,9 +93,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
  
 -  **Quaternion.Eular**
  
- - 각 축을 한번에 계산/ 4개의 성분 x,y,z,w 로 이루어져 있다. w는 스칼라 
+   각 축을 한번에 계산/ 4개의 성분 x,y,z,w 로 이루어져 있다. w는 스칼라 
  
- - 물체의 회전에 사용된다. transform.rotation = Quarternion.Eular(new Vector3(x,y,z))
+   물체의 회전에 사용된다. transform.rotation = Quarternion.Eular(new Vector3(x,y,z))
    
    
 # Game_Pysics_#1
