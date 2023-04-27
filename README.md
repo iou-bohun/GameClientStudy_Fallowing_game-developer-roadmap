@@ -104,9 +104,14 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    
    원근감이 없는 투영. 물체들의 절대적인 크기를 봐야 할 때 사용된다.
    
+   어떤 평면 위에 물체가 있고, 평면에 수직 방향으로 빛을 비출때 생기는 그림자. 
+   
+   ![image](https://user-images.githubusercontent.com/56661597/234743605-55734946-b842-4158-9a5a-bbc2ea28009b.png)
+
+   
  - Perspective Projection
 
-   원근감이 있는 투영.\ㅑㅕ숔로ㅛㅑㅐㅔ 
+   원근감이 있는 투영.
    
 # Game_Pysics_#1
 # Game_Engine
