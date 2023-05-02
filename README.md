@@ -116,9 +116,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    원근감이 있는 투영. = 원근법
    
  ### Interpolation
- #### 선형보간 Linear Interpolation
- 
-  Lerp/SLerp **(Vector3.(S)Lerp(Vector3 start,Vector3 end, float rate)** 
+ #### 선형보간 **(Vector3.(S)Lerp(Vector3 start,Vector3 end, float rate)** 
  
   - Lerp 두 점의 값이 주어졌을 때, 그 사이에 위치한 값을 추정하기 위해, 직선거리에 따라 선형적으로 계산하는 방법
  
