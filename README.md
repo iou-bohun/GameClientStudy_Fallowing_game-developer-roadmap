@@ -73,6 +73,10 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 ### Geometry
  
  - 도형을 연구하는 수학. ex) 피타고라스 정리 
+   
+   아이소매트릭 그래픽의 게임에서 플레이어의 뷰에 사용되, 지형과 텍서처 의 폴리곤의 처리에 또한 사용된다. 
+   
+   
  
    collision의 충돌 감지에 사용되었다. 
    
