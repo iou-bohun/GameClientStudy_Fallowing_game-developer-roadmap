@@ -73,6 +73,9 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
 ### Geometry
  
  - 도형을 연구하는 수학. ex) 피타고라스 정리 
+ 
+   가장 간단한 shape는 점이며 이 점이 모여 선이 되고, 선이 모여 평명이 되며, 이러한 면들이 모여 Solid가 된다. 
+   
    
    아이소매트릭 그래픽의 게임에서 플레이어의 뷰에 사용되, 지형과 텍서처 의 폴리곤의 처리에 또한 사용된다. 
    
@@ -131,6 +134,13 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
    
    
 # Game_Pysics_#1
+### Dynamics 
+#### Velocity
+ - Linear Velocity  선속도
+ 
+   물체와 고점 점 사이의 변위 변화율로 정의된다. 
+   
+ - Angular Velocity  각속도
 # Game_Engine
 # Game_Physics_#2
 # Computer_Graphics_#1
