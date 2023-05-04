@@ -126,6 +126,8 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
  #### 선형보간 **(Vector3.(S)Lerp(Vector3 start,Vector3 end, float rate)** 
  
   - Lerp 두 점의 값이 주어졌을 때, 그 사이에 위치한 값을 추정하기 위해, 직선거리에 따라 선형적으로 계산하는 방법
+  
+    Lerp를 사용하는 경우 start =0, end =1 인 경우 값은 절대 1에 도달 할 수 없다. **==1 사용 불가능**
  
   - SLerp 두 점이 구체 위에 있다고 생각하고 호의 길이를 선형적으로 보간하는 방법 
  
