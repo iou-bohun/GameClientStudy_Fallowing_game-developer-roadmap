@@ -13,6 +13,7 @@ game-developer-roadmap https://github.com/utilForever/game-developer-roadmap 을
   
   
 - [Game_Pysics_#1](#Game_Pysics_#1)
+  * [Dynamics](#Dynamics)
 - [Game_Engine](#Game_Engine)
 - [Game_Physics_#2](#Game_Pysics_#2)
 - [Computer_Graphics_#1](#Computer_Graphics_#1)
